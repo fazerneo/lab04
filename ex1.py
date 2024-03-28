@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a2057ed (1)
 def average(a, b):
     return (a + b) / 2
 
